@@ -3960,6 +3960,8 @@ table.wp-calendar-table caption {
 }
 
 .entry-title {
+	color:#2a6496;
+    text-decoration: underline;
 	color: var(--entry-header--color);
 	font-size: var(--entry-header--font-size);
 	letter-spacing: var(--heading--letter-spacing-h2);
