@@ -10,15 +10,7 @@
  * @subpackage Twenty_Twenty_One
  * @since Twenty Twenty-One 1.0
  * 
-<<<<<<< HEAD
-* ád
- * fasdf
-=======
- * ád
- * fasdfsaddddddddddddddddádfasd
->>>>>>> moduletest
- * ád
- * fafsdfas
+
  * df
  * ádf
  */
